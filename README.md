@@ -1,2 +1,4 @@
 # SVCA
-Coding for His kingdom.
+Projects for Silicon Valley Christian Assembly.
+
+### SVCA Worship Database Development
